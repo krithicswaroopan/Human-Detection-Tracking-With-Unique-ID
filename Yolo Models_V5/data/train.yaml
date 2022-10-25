@@ -1,0 +1,16 @@
+train: datasets/images/train/
+
+val:  datasets/images/val/
+
+test: datasets/images/test/
+
+
+# number of classes
+
+nc: 6
+
+
+# class names
+
+names: ['pedestrians', 'pedestrians', 'riders', 'partially-visible persons', 'ignore regions', 'crowd']
+    
